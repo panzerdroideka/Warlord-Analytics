@@ -1,3 +1,12 @@
+# Generated reports
+FULL_REPORT_*.txt
+Python_*.txt
+safe_cleanup_report.txt
+user_duplicates_*.txt
+
+# Generated inventories
+analytics/file_inventory.csv
+
 __pycache__/
 *.pyc
 *.tmp
